@@ -1,2 +1,2 @@
-# computer_science
+# Computer Science
 Data Structures and Algorithms.
